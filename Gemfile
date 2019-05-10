@@ -9,7 +9,7 @@ group :test do
   gem "rspec"
 end 
 
-group "pry", :group => :development 
+group "pry", :group => "development"
  
 # group :development do
 # gem "pry"
